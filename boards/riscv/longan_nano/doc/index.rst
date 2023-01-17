@@ -84,7 +84,7 @@ Programming and debugging
 Building & Flashing
 ===================
 
-Here is an example for the :ref:`blinky` application.
+Here is an example for building the :ref:`blinky-sample` application.
 
 .. zephyr-app-commands::
    :zephyr-app: samples/basic/blinky
